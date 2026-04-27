@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/data-pipeline-templates?style=for-the-badge)](https://github.com/RanaAhmar/data-pipeline-templates/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/data-pipeline-templates?style=for-the-badge)](https://github.com/RanaAhmar/data-pipeline-templates/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/data-pipeline-templates/blob/main/LICENSE)
+
 # ⛓️ Data Pipeline Templates
 
 Ready-to-use Airflow DAGs and Dagster ops. S3 to Snowflake, PostgreSQL to BigQuery, and more. By **Ahmar Hussain** (**Stackaura**).
@@ -33,6 +35,18 @@ If you found this tool useful, check out our other high-performance web utilitie
 ---
 
 
+
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
 
 
 ---
